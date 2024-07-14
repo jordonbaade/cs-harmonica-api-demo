@@ -1,0 +1,6 @@
+@HarmonicaApi_HostAddress = http://localhost:5217
+
+GET {{HarmonicaApi_HostAddress}}/Harmonicas/C
+Accept: application/json
+
+###
